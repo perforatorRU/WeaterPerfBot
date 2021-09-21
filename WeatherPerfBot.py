@@ -1,3 +1,5 @@
+#Version 0.0.1
+
 from pyowm import OWM
 #from pyowm.utils import config
 #from pyowm.utils import timestamps
